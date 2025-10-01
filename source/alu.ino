@@ -45,7 +45,7 @@ String cpu_memory[MEMORY_SIZE];
 // FUNCTIONS
 void initialize_memory();
 void print_memory();
-String int_to_binary_string(int value, int bits = 4);
+String int_to_binary_string(int value, int bits);
 int hexstring_to_int(String hex_string);
 
 void setup() {
