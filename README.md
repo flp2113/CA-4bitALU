@@ -5,8 +5,8 @@ https://www.tinkercad.com/things/eGjCnGwNVhJ-4-bit-alu?sharecode=dUMXWBvfF2l5Icc
 ## Integrantes
 - Felipe Guerzoni Martins Flôres Maia
 - Daniel Bueno Lacerda
-- Matheus Felipe Cavalcanti Xavier
 - Marcos Paulo Miranda Pereira
+- Matheus Felipe Cavalcanti Xavier
 
 ## Professor
 - Romanelli Lodron Zuim
